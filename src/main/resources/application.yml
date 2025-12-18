@@ -2,7 +2,7 @@ server:
   port:8081
 spring:
   application:
-  name:customerService
+  name:CustomerService
   datasource:
     url:jdbc:postgresql://dpg-d51qsul6ubrc738tbcag-a.origon-postgres.render.com:5432/cservice_820s
     username:cservice_820s_user
